@@ -11,7 +11,7 @@ It is written and tested for v3.3 of the [ESP-IDF](https://github.com/espressif/
 
 Ensure that submodules are cloned:
 
-    $ git clone --recursive https://github.com/YourUserName/ESP32_Adafruit_STEMMA_Soil_Sensor_Example.git
+    $ git clone --recursive https://github.com/Krzyshio/ESP32_Adafruit_STEMMA_Soil_Sensor_Example.git
 
 Build the application with:
 
